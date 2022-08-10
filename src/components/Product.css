@@ -1,0 +1,24 @@
+h3, .price{
+    text-transform: uppercase;
+    color: #2D2C2A;
+}
+
+.product {
+    display: flex;
+    margin: 0 auto;
+    max-width: 240px;
+    margin-bottom: 16px;
+
+}
+
+.details h3 {
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.details p {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    line-height: 21px;
+}
